@@ -1,0 +1,26 @@
+{
+  "name": "franz-pad-electric",
+  "version": "1.0.0",
+  "description": "DJ Pad com 8 efeitos de som, sistema de grava\u00e7\u00e3o e tema el\u00e9trico",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.0.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@supabase/supabase-js": "^2.39.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.10.5",
+    "@types/react": "18.2.45",
+    "@types/react-dom": "18.2.18",
+    "autoprefixer": "10.4.16",
+    "postcss": "8.4.32",
+    "tailwindcss": "3.4.0",
+    "typescript": "5.3.3"
+  }
+}
